@@ -1,1 +1,1 @@
-# Django로 백엔드 서버 구축
+# Django로 REST API 서버 구축
