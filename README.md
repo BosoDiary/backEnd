@@ -1,3 +1,3 @@
 # Django로 REST API 서버 구축
-__todo__
+### todo
 * google login 구현
